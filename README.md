@@ -1,7 +1,7 @@
 # 🧬 Ruben // Rwb3n  
 
 **Tech Orchestrator. System Composer. Digital Agent Architect.**  
-_Designing systems intelligent systems for a elegant lifestyle._
+_Designing intelligent systems for a elegant lifestyle._
 
 ---
 ## 📫 Get in Touch  
