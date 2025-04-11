@@ -14,7 +14,7 @@ _Designing intelligent systems for a elegant lifestyle._
 ## ⚡️ What I Do  
 
 I build orchestration layers for emerging tech—especially **digital agents**, **recursive systems**, and **human-in-the-loop intelligence**.  
-My work focuses on **context-aware infrastructure**, **local-first autonomy**, and **elegant control systems** for creative and operational sovereignty.
+My work focuses on **context-aware infrastructure**, **local-first autonomy**, and **elegant control systems** for creative and operational sovereignty - I want to replace humans with machines, so we can all enjoy real life rather than being glued to a screen all day!
 
 ---
 ## 🔗 My Repos  
