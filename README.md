@@ -29,7 +29,7 @@ My work focuses on **context-aware infrastructure**, **local-first autonomy**, a
 ---
 ## 🧰 Stack
 
-**Languages**: English, Python, JS/Ts, Apex  
+**Languages**: English, Python, Javascript/Typescript, Apex  
 **Infra**: Supabase, GitHub, Salesforce, n8n  
 **AI Tooling**: LangChain, OpenAI
 **Workflow**: Obsidian, Cursor
