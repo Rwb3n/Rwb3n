@@ -1,6 +1,6 @@
 # 🧬 Ruben // Rwb3n  
 
-**Tech Orchestrator. System Composer. Digital Agent Architect.**  
+**Aspiring Tech Orchestrator. System Composer. Digital Agent Architect.**  
 _Designing intelligent systems for a elegant lifestyle._
 
 ---
@@ -13,10 +13,9 @@ _Designing intelligent systems for a elegant lifestyle._
 ---
 ## ⚡️ What I Do  
 
-I build orchestration layers for emerging tech—especially **digital agents**, **recursive systems**, and **human-in-the-loop intelligence**.  
-My work focuses on **context-aware infrastructure**, **local-first autonomy**, and **elegant control systems** for creative and operational sovereignty.
+I plan to build with emerging tech, especially **digital agents**, to make **recursive systems**, and executive **autonomous assistants** .  
+My work focuses on **context-aware infrastructure**, **local-first autonomy**, and **elegant control systems** for creativity.
 
-In other words, I want to replace humans with machines, so we can all enjoy real life rather than being glued to a screen all day!
 
 ---
 ## 🔗 My Repos  
@@ -30,9 +29,9 @@ In other words, I want to replace humans with machines, so we can all enjoy real
 ---
 ## 🧰 Stack
 
-**Languages**: Python, JavaScript/TypeScript, Apex  
-**Infra**: Supabase, GitHub, Salesforce  
-**AI Tooling**: LangChain, LlamaIndex, OpenAI, Ollama  
-**Workflow**: Obsidian, Cursor, Framer Motion, Tailwind  
-**Philosophy**: Systems-first. Local-first. Future-next.
+**Languages**: English, Python, JS/Ts, Apex  
+**Infra**: Supabase, GitHub, Salesforce, n8n  
+**AI Tooling**: LangChain, OpenAI
+**Workflow**: Obsidian, Cursor
+**Philosophy**: System-first. Future-next.
 
