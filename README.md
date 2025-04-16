@@ -1,7 +1,6 @@
 # 🧬 Ruben // Rwb3n  
 
 **Aspiring Tech Orchestrator. System Composer. Digital Agent Architect.**  
-_Designing intelligent systems for a elegant lifestyle._
 
 ---
 ## 📫 Get in Touch  
@@ -13,7 +12,7 @@ _Designing intelligent systems for a elegant lifestyle._
 ---
 ## ⚡️ What I Do  
 
-I plan to build with emerging tech, especially **digital agents**, to make **recursive systems**, and executive **autonomous assistants** .  
+I plan to build with emerging tech, especially **digital agents** and **recursive systems**.  
 My work focuses on **context-aware infrastructure**, **local-first autonomy**, and **elegant control systems** for creativity.
 
 
