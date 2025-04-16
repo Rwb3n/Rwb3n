@@ -17,12 +17,9 @@ My work focuses on **context-aware infrastructure**, **local-first autonomy**, a
 
 
 ---
-## 🔗 My Repos  
+## 🔗 Main Repos  
 
-- [`Hephaestus`](https://github.com/Rwb3n/Hephaestus)  
 - [`obsidian-mcp`](https://github.com/Rwb3n/obsidian-mcp)  
-- [`werkout`](https://github.com/Rwb3n/werkout)  
-- [`nonprofit-tracker`](https://github.com/Rwb3n/nonprofit-tracker)  
 - [`SF-Boxfresh-app`](https://github.com/Rwb3n/SF-Boxfresh-app)
 
 ---
