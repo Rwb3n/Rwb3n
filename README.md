@@ -20,7 +20,6 @@ My work focuses on **context-aware infrastructure**, **local-first autonomy**, a
 ## 🔗 Main Repos  
 
 - [`obsidian-mcp`](https://github.com/Rwb3n/obsidian-mcp)  
-- [`SF-Boxfresh-app`](https://github.com/Rwb3n/SF-Boxfresh-app)
 
 ---
 
