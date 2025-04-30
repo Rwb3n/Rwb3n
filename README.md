@@ -12,14 +12,13 @@
 ---
 ## ⚡️ What I Do  
 
-I plan to build with emerging tech, especially **digital agents** and **recursive systems**.  
-My work focuses on **context-aware infrastructure**, **local-first autonomy**, and **elegant control systems** for creativity.
-
+I build with emerging tech tools, especially **digital agents** and **recursive systems**.  
+My work focuses on **autonomous digital systems** that are **local/private hosted first**.
 
 ---
 ## 🔗 Main Repos  
 
-- [`obsidian-mcp`](https://github.com/Rwb3n/obsidian-mcp)  
+- [`obsidian-mcp`](https://github.com/Rwb3n/obsidian-mcp) - A local MCP server to interface with your Obsidian Vault.
 
 ---
 
