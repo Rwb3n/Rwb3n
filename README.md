@@ -7,7 +7,7 @@
 ## 📍 About Me
 
 I'm a systems-minded builder focused on **digital autonomy**, **agent architecture**, and **composable toolchains**.  
-My current work explores how local-first systems and AI-powered agents can enhance workflows, memory, and execution.
+My current work explores how systems can enhance workflows, memory, and quality of work-life.
 
 I specialize in:
 - Declarative platform development (Salesforce)
@@ -37,7 +37,7 @@ I specialize in:
 ## 🛠️ Current Stack
 
 **Platform Dev**: Salesforce (Admin + App Builder), Flow, Permissioning  
-**Automation**: Python, JS, Shell scripting, LLM agents  
+**Automation**: Python, TS, Shell scripting, LLM agents  
 **Infrastructure**: Git, GitHub Actions, GCP, local-first toolchains  
 **Productivity**: Obsidian, Notion, custom agents, terminal workflows
 
