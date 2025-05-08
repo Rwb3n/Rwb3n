@@ -1,7 +1,5 @@
 # 🧬 Ruben Pires (rwb3n.eth)
 
-**Tech Orchestrator · System Designer · Agent Architect**
-
 ---
 
 ## 📍 About Me
@@ -47,7 +45,7 @@ I specialize in:
 
 - Finalizing a **Salesforce Authority Website** (audits + apps + content)  
 - Iterating on a **local memory system** for LLM agents  
-- Prototyping agent-based newsletters, pipelines, and recursive tools  
+- Prototyping agent-based pipelines, and recursive tools  
 
 ---
 
