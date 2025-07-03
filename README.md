@@ -9,10 +9,10 @@ My current work explores how systems can enhance workflows, memory, and quality 
 
 I specialize in:
 - Declarative platform development (Salesforce)
-- Local/private infrastructure (Obsidian, Python, containerization)
-- Autonomous system scaffolding (LLM agents, behavioral orchestration, memory stacks)
+- Local/private infrastructure (Obsidian, Python, n8n, SQLite)
+- Autonomous system scaffolding (LLMs, Agent orchestration, memory stacks)
 
-> I believe in building systems that think with you—not just for you.
+> I believe in building systems that think with you, not just for you.
 
 ---
 
@@ -34,17 +34,16 @@ I specialize in:
 
 ## 🛠️ Current Stack
 
-**Platform Dev**: Salesforce (Admin + App Builder), Flow, Permissioning  
-**Automation**: Python, TS, Shell scripting, LLM agents  
-**Infrastructure**: Git, GitHub Actions, GCP, local-first toolchains  
+**Platform Dev**: Salesforce (Admin + App Builder), Flow Builder  
+**Automation**: Python, TS, Langchain, n8n  
 **Productivity**: Obsidian, Notion, custom agents, terminal workflows
 
 ---
 
 ## 🧠 Now Working On
 
-- Finalizing a **Salesforce Authority Website** (audits + apps + content)  
-- Iterating on a **local memory system** for LLM agents  
+- Finalizing **my personal website** (audits + apps + content)  
+- Iterating on a personal **local memory system** for LLM agents  
 - Prototyping agent-based pipelines, and recursive tools  
 
 ---
