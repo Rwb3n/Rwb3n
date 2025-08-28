@@ -1,4 +1,4 @@
-# 🧬 Ruben Pires (rwb3n.eth)
+# 🧬 Ruben Pires
 
 ---
 
@@ -16,8 +16,6 @@ I specialize in:
 ## 💼 Get in Touch
 
 - 🌐 **LinkedIn** → [Ruben Pires](https://www.linkedin.com/in/ruben-pires-5a967a273/)  
-- 💬 **DMs Open** → [Warpcast @rwb3n.eth](https://warpcast.com/rwb3n.eth)  
-- 🖥️ **Portfolio Site** → _(coming soon)_
 
 ---
 
