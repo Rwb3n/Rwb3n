@@ -4,8 +4,7 @@
 
 ## 📍 About Me
 
-I'm interested in **digital autonomy**, **agent choreography**, and **composable toolchains**.  
-Currently exploring how systems can enhance workflows, memory, and quality of work-life.
+I'm interested in **digital autonomy** and **agent choreography**. 
 
 I specialize in:
 - Declarative platform development (Salesforce)
@@ -21,7 +20,7 @@ I specialize in:
 
 ## ⚡ Selected Projects
 
-- [`obsidian-mcp`](https://github.com/Rwb3n/obsidian-mcp) – A local MCP-style controller for Obsidian vaults    
+- [`obsidian-mcp`](https://github.com/Rwb3n/obsidian-mcp) – A local MCP-style controller for Obsidian vaults **outdated, for now...**    
 
 ---
 
